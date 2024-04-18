@@ -9,7 +9,7 @@ const Navbar = () => {
         <p className="text-4xl  flex font-sans font-semibold ml-12 text-green-600 cursor-pointer hover:scale-105 transition ease delay-80">
           Ec
           <span>
-            <img className="h-7 w-7 mt-3 mx-1" src="src\images\earth.png"></img>
+            <img className="h-7 w-7 mt-3 mx-1" src="src/images/earth.png"></img>
           </span>
           yaan
         </p>
